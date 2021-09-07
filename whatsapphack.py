@@ -18,6 +18,8 @@ version:  Prank
 ___________________Done by Cyber404______________
 
 Disclaimer:this 'is' a fake whatsapp hacking tool,so don't use it to scamm others
+
+A lot of my fans were saying Cyber404 when is the too going to be released so i released this fake too so as to make you see how the original tool will be like,this is not the original tool i am creating.The real tool is under mantainance +263712827472
 '''  
 print(w)
 print('''
