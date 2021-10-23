@@ -7,5 +7,12 @@ $apt update
 $apt upgrade
 $apt install python
 $apt istall git
-$git clone 
+$git clone https://github.com/Cyber404hackers/whatsapphack
+
+
+
+Usage
+
+$cd whatsapphack
+$python whatsapphack.py
 
